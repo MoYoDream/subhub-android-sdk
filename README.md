@@ -1,9 +1,9 @@
-# SubHub Android SDK 0.3.8
+# SubHub Android SDK 0.3.9
 
 Maven coordinates:
 
 ```kotlin
-implementation("dev.subhub:subhub:0.3.8")
+implementation("dev.subhub:subhub:0.3.9")
 ```
 
 Add to `settings.gradle.kts`:
